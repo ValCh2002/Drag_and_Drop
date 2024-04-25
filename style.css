@@ -1,0 +1,126 @@
+#main{
+    display: flex;
+    gap: 35px;
+}
+
+.titles{
+    display: flex;
+    gap: 300px;
+}
+
+#constructor, #result{
+    width: 400px;
+    height: 460px;
+    border: 3px solid;
+}
+
+
+
+#inputs select{
+    display: flex  ;
+    flex-direction: column;
+    width: 140px;
+    margin-top: 10px;
+}
+
+#inputs button{
+    width: 140px;
+    color: #fff;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: green;
+}
+
+
+
+
+
+
+
+/*     New Tags */
+
+
+
+
+.div{
+    width: 360px;
+    height: 120px;
+    border:2px solid;
+    margin: auto;
+    margin-top: 20px;
+}
+.div:hover{
+    border-color: orange;
+    transition: 0.3s;
+}
+
+
+
+.input{
+    display: block;
+    width: 360px;
+    height: 63px;
+    border: 2px solid;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.input:hover{
+    border-color: orange;
+    transition: 0.3s;
+}
+
+.h1{
+    display: block;
+    width: 360px;
+    height: 70px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid white;
+    text-align: center;
+}
+
+.res{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 78%;
+    border:2px solid;
+    margin: 10px auto 10px auto;
+}
+
+.h1:hover{
+    border-color: orange;
+    transition: 0.3s;
+}
+
+.span{
+    display: block;
+    width: 360px;
+    height: 70px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid white;
+    text-align: center;
+}
+
+.span:hover{
+    border-color: orange;
+    transition: 0.3s;
+}
+
+
+
+
+.inputForText{
+    display: block;
+    width: 140px;
+    margin-top: 10px;
+}
+
+
+.hover:hover{
+    border-color: orange;
+    transition: 0.3s;
+}
